@@ -12,7 +12,7 @@ namespace Projeto_Hospital
 
         public Paciente Cabeca { get; set; }
         public Paciente Cauda { get; set; }
-        public int Elementos { get; set; }
+        public int Elementos { get; set; } 
         public string PathFile { get; set; }
 
         public Fila()
