@@ -119,7 +119,7 @@ namespace Projeto_Hospital
                     line = sr.ReadLine();
                 }
 
-                sr.Close();
+                sr.Close(); 
 
                 if (!aguardandoNaFila)
                 {
